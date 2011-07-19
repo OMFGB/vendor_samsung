@@ -36,6 +36,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/mesmerizemtd/proprietary/sensorcalibutil_yamaha:system/bin/sensorcalibutil_yamaha \
     vendor/samsung/mesmerizemtd/proprietary/sensorserver_yamaha:system/bin/sensorserver_yamaha \
     vendor/samsung/mesmerizemtd/proprietary/sensorstatutil_yamaha:system/bin/sensorstatutil_yamaha \
-    vendor/samsung/mesmerizemtd/proprietary/sensors.default.so:system/lib/hw/sensors.default.so
+    vendor/samsung/mesmerizemtd/proprietary/sensors.default.so:system/lib/hw/sensors.default.so \
+    vendor/samsung/mesmerizemtd/proprietary/PhoneConfig.apk:system/app/PhoneConfig.apk \
+    vendor/samsung/mesmerizemtd/proprietary/ProgramMenu.apk:system/app/ProgramMenu.apk \
+    vendor/samsung/mesmerizemtd/proprietary/ProgramMenuSystem.apk:system/app/ProgramMenuSystem.apk
 
 
