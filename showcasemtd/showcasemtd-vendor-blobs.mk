@@ -36,6 +36,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/showcasemtd/proprietary/sensorcalibutil_yamaha:system/bin/sensorcalibutil_yamaha \
     vendor/samsung/showcasemtd/proprietary/sensorserver_yamaha:system/bin/sensorserver_yamaha \
     vendor/samsung/showcasemtd/proprietary/sensorstatutil_yamaha:system/bin/sensorstatutil_yamaha \
-    vendor/samsung/showcasemtd/proprietary/sensors.default.so:system/lib/hw/sensors.default.so
+    vendor/samsung/showcasemtd/proprietary/sensors.default.so:system/lib/hw/sensors.default.so \
+    vendor/samsung/showcasemtd/proprietary/PhoneConfig.apk:system/app/PhoneConfig.apk \
+    vendor/samsung/showcasemtd/proprietary/ProgramMenu.apk:system/app/ProgramMenu.apk \
+    vendor/samsung/showcasemtd/proprietary/ProgramMenuSystem.apk:system/app/ProgramMenuSystem.apk
 
 
