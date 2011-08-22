@@ -16,7 +16,7 @@
 PRODUCT_COPY_FILES := \
     vendor/samsung/showcasemtd/proprietary/libril.so:obj/lib/libril.so \
     vendor/samsung/showcasemtd/proprietary/libsecril-client.so:obj/lib/libsecril-client.so \
-    vendor/samsung/showcasemtd/proprietary/libcamera.so:system/lib/libcamera.so
+    vendor/samsung/showcasemtd/proprietary/libcamera.so:obj/lib/libcamera.so
 
 # All the blobs necessary for galaxys devices
 PRODUCT_COPY_FILES += \
